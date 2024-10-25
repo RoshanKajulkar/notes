@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+
 function removeDuplicates(nums: number[]): number {
     if (nums.length === 0) return 0; // Edge case for an empty array
 
